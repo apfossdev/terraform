@@ -1,0 +1,5 @@
+Introduction-to-Terraform/.terraform/
+Introduction-to-Terraform/.terraform.lock.hcl
+Introduction-to-Terraform/terraform.tfstate
+Introduction-to-Terraform/terraform.tfstate.backup
+Introduction-to-Terraform/terraform.tfvars
