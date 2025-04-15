@@ -3,3 +3,17 @@ Introduction-to-Terraform/.terraform.lock.hcl
 Introduction-to-Terraform/terraform.tfstate
 Introduction-to-Terraform/terraform.tfstate.backup
 Introduction-to-Terraform/terraform.tfvars
+
+Introduction-to-Terraform/modules/azure_vm/terraform.tfvars
+
+Providers__Multi_Region__Multi_Cloud__Variables__Conditions_and_Built-in_Functions/multi_region_variables_tfvars/.terraform/
+Providers__Multi_Region__Multi_Cloud__Variables__Conditions_and_Built-in_Functions/multi_region_variables_tfvars/.terraform.lock.hcl
+Providers__Multi_Region__Multi_Cloud__Variables__Conditions_and_Built-in_Functions/multi_region_variables_tfvars/terraform.tfvars
+Providers__Multi_Region__Multi_Cloud__Variables__Conditions_and_Built-in_Functions/multi_region_variables_tfvars/.terraform/
+Providers__Multi_Region__Multi_Cloud__Variables_and_Conditions/terraform.tfstate.backup
+Providers__Multi_Region__Multi_Cloud__Variables_and_Conditions/terraform.tfstate
+
+Using-Remote-Backends-in-Terraform/
+
+State-Locking-in-Terraform/
+
