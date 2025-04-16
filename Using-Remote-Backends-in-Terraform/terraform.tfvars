@@ -1,0 +1,1 @@
+subscription_id = "9434bd90-a97c-4f5c-932a-8fc12772c970" #this is for my personal account

@@ -1,0 +1,1 @@
+vm_size = "Standard_B2ls_v2"
